@@ -1,0 +1,13 @@
+{
+  "name": "Огненный дозор",
+  "short_name": "Дозор",
+  "description": "Обучающая игра по пожарной безопасности для сотрудников офиса и АЗС",
+  "lang": "ru",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3ec480",
+  "icons": [
+    { "src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
